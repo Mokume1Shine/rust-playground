@@ -2,4 +2,7 @@
   "rust-analyzer.checkOnSave": true,
   "editor.formatOnSave": true,
   "files.trimTrailingWhitespace": true,
+  "github.copilot.enable": {
+    "*": false
+  },
 }
